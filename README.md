@@ -1,4 +1,4 @@
-Overview
+#Overview
 This project uses a webcam and Mediapipe library to recognize hand gestures and displays the number on a 7-segment display. It includes a Python script, gesture.py, which captures the video from the webcam, processes it using Mediapipe library to recognize the hand gesture and displays the number on a 7-segment display using an Arduino board connected to the computer via USB.
 
 Files
